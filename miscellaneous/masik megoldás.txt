@@ -1,0 +1,4 @@
+Lehetne 7 csoport (fájl -> tömb elemei az egyes hozzászólások)
+Az egyes csoportok reprezentálnák az értékeléseket 1-től 7-ig.
+Az éppen vizsgált szöveget összehasonlítanánk (similar_text()) a csoportok összes elemével.
+Amelyik csoporttal a leghasonlóbb olyan értékelést kap az is (és esetleg bele is kerülhet abba a csoportba).

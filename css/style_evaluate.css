@@ -1,0 +1,52 @@
+#left {
+	float: left;
+}
+
+#display-scores {
+	float: left;
+	width: 100%;
+}
+
+#p-scores {
+	float: left;
+}
+
+#total-scores {
+	float: right;
+	width: 170px;
+	height: 20px;
+}
+
+#error-message {
+	clear: both;
+}
+
+.main_form {
+	clear: both;
+	float: left;
+	margin-top: 1em;
+}
+
+.scores {
+	float: right;
+/*	margin: 35px;*/
+}
+
+.teams-main {
+	font-weight: bold;
+	background-color: #7da4ac;
+	color: #000;
+	text-shadow: -1px 0 #fff, 1px 0 #fff, 0 -1px #fff, 0 1px #fff;
+}
+
+footer {
+	clear: both;
+}
+
+footer p {
+	float: left;
+}
+
+footer input {
+	margin: 15px 0 0 15px;
+}

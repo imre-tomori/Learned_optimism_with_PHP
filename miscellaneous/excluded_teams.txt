@@ -1,0 +1,10 @@
+team_ott
+team_lak
+team_njd
+team_edm
+team_nyi
+team_car
+team_ari
+team_sjs
+team_det
+team_buf

@@ -1,0 +1,16 @@
+menu {
+	position: fixed;
+	right: 0;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	padding: 5px;
+}
+
+a {
+	text-decoration: none;
+}

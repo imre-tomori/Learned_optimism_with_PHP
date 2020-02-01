@@ -1,0 +1,73 @@
+section, article, div {
+	margin: 0 30px 0 0;
+}
+
+#left div.team{
+	float: left;
+}
+
+#right {
+	float: left;
+}
+
+#ongoing-games {
+	clear: both;
+}
+
+#ongoing-games td {
+	color: #fff;
+}
+
+#ongoing-games .to-bet-on {
+	font-weight: bold;
+	background-color: #7da4ac;
+	color: #000;
+	text-shadow: -1px 0 #fff, 1px 0 #fff, 0 -1px #fff, 0 1px #fff;
+}
+
+.capital-sums {
+	font-weight: bold;
+}
+
+#finished-games {
+	float: left;
+}
+
+#finished-games td {
+	color: #000;	
+}
+
+.finished-winner {
+	background-color: #97d95d;
+}
+
+.finished-looser {
+	background-color: #e9ea9b;	
+}
+
+.finished-non-evaluatable{
+	background-color: #342;
+}
+
+.finished-winner-teams {
+	font-weight: bold;
+	text-shadow: -1px 0 #e9ea9b, 1px 0 #e9ea9b, 0 -1px #e9ea9b, 0 1px #e9ea9b;
+}
+
+.finished-profit-stream-positive {
+	background-color: #97d95d;
+}
+
+.finished-profit-stream-negative {
+	background-color: #e9ea9b;
+}
+
+#capital {
+	float: left;
+	margin: 40px 0 0 8px;
+}
+
+#capital p {
+	font-size: 3em;
+	margin: 25px 0;
+}
